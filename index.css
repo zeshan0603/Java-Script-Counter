@@ -1,0 +1,47 @@
+body {
+    background-image: url("yarn.jpeg");
+    background-size: cover;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius: 10px;
+    max-width: 220px;
+    margin: 0 auto;
+}
+
+#increment-btn {
+    background: darkgoldenrod;
+    color: black
+}
+
+#save-btn {
+    background: darkmagenta;
+}
+
